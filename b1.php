@@ -4,9 +4,11 @@
     <h1>Diplômes obtenus : </h1>
 </div>
 
-<br><br>
+<br>
 
     <img src="https://cdn-icons-png.flaticon.com/512/2231/2231605.png" style="height:60px;margin-bottom:20px">
+
+<br>
 
 <div style="align-text:justify">
 

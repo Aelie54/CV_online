@@ -3,15 +3,30 @@
 <h1> Expérience </h1>
 </div>
 
-<br><br>
+<br>
 
 <img src="https://pngimage.net/wp-content/uploads/2018/05/experience-symbol-png-3.png" style="height:60px;margin-bottom:20px">
 
 
+    <!-- collapse -->
+
+    <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingA">
+                    <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#flush-collapseA" aria-expanded="false" aria-controls="flush-collapseA">
+                        <span class= "gras"><p> Depuis le 25/10/2021 : Stagiaire de formation – Alaji (Villers-Lès-Nancy) </p></span>
+                    </button>
+                </h2>
+                
+                <div id="flush-collapseA" class="accordion-collapse collapse" aria-labelledby="flush-headingA" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Préparation à la qualification développeur web et intégrateur web PHP orienté objet - Développement de la partie front-end et back-end d’un site internet web et web - mobile, création et gestion de bases de données <br>Langages de programmation et outils :<br>Visual Studio Code, Git Hub, HTML, CSS, SCSS, PHP orienté objet, Javascript, JQuery, Ajax, phpMyAdmin, MySQL, Python, utilisation d’API, respect du modèle MVC, écriture de routes, lecture et écriture d’UML, Bootstrap, Figma, ORM/Doctrine.</p></div>
+                </div>
+            </div>
+            <div class="accordion-item">
+
     <!-- COllapse accordeon -->
 
     <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
-
         <div class="accordion-item">
             <h2 class="accordion-header" id="flush-heading1">
             <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#flush-collapse1" aria-expanded="false" aria-controls="flush-collapse1">
@@ -24,8 +39,9 @@
             </div>
         </div>
         <div class="accordion-item">
+                
+        <!-- COllapse accordeon -->
 
-        <!-- collapse 2-->
 
             <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
         <div class="accordion-item">
@@ -118,14 +134,13 @@
     <h1> Compétences aquises </h1>
 </div>
 
+<br>
+
 <div style="align-text:center; text-align: center;"> 
 <img src="https://pngimage.net/wp-content/uploads/2018/05/comp%C3%A9tences-icone-png.png" style="height:60px;margin-bottom:20px">
 </div>
 
-
-            <!-- COllapse accordeon -->
-
-        <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
+        <!-- Collapse -->
 
         <div class="accordion-item">
             <h2 class="accordion-header" id="flush-headingA">

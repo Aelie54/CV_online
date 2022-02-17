@@ -1,13 +1,16 @@
 <br><br>
-<div>    
+<div style="align-text:center; text-align: center;">
+   
 <h1>Soft Skills : </h1>
-</div>
 
-<br><br>
+<br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/3062/3062312.png" style="height:60px;margin-bottom:20px">
 
+<br>
+
 <div style="align-text:center; text-align: center;">
+
 <!-- align-text:center; -->
 
     <p>Travail d'équipe</p>
@@ -23,16 +26,14 @@
 <br><br>
 
 <h1>Centres d'intérêts : </h1>
-</div>
-
-<br><br>
+<br>
 
 <img src="https://www.iconpacks.net/icons/2/free-instagram-like-icon-3507-thumb.png" style="height:60px;margi-bottomn:20px">
 
 <div style="align-text:center; text-align: center;">
 
     <p><span class= "gras">Dessin</span> 
-    <br><span class= "italique"> sur papier au stylo bille et sur palette graphique (Sketchbook)</span></p> 
+    <br><span class= "italique"> sur papier au stylo bille et sur tablette graphique (logiciel : Sketchbook)</span></p> 
 
     <p><span class= "gras">Lecture</span> 
     <br><span class= "italique"> Imaginaire, mythologie nordique, webtoon </span></p> 
@@ -41,9 +42,9 @@
     <br><span class= "italique"> Kalimba </span></p> 
 
     <p><span class= "gras">Cinéma</span> 
-    <br><span class= "italique"> De tous les genres & Marvel's team! </span></p> 
+    <br><span class= "italique"> De tous les genres mais Marvel's team! </span></p> 
 
-    <br>
+    <br><br>
 
 </div>
                 

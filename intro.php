@@ -6,11 +6,13 @@
     <h1>En route pour une reconversion vers le développement Web</h1>
 </div>
 
-<br><br>
+<br>
 
 <p> 
     <span class= "italique">30 ans déjà • Habite à Vandoeuvre-lès-Nancy • Permis B et véhiculée</span>
 </p>
+
+<br>
 
 <div style="align-text:justify">
 
@@ -21,7 +23,7 @@
             <li> la découverte des outils les plus importants que sont Git Hub et Visual Studio Code</li>
             <li> la création d'une base de données via SQL (MySQL et PhpMyAdmin) et l'écriture et la compréhension des diagrammes UML, </li>
             <li> le langage PHP orienté objet (Doctrine/ORM et bientôt Symfony) pour le fonctionnement back-end et la gestion de la base de données, </li>
-            <li> les routes pour clarifier les chemins avec les méthodes GET et POST pour gérer les éléments affichés depuis une base de données,</li>
+            <li> la création de router pour clarifier les chemins, avec les méthodes GET et POST pour gérer les éléments affichés depuis une base de données,</li>
             <li> le respect du modèle MVC dans l'organisation du code, </li>
             <li> pour l'aspect visuel, les langages CSS, SCSS, ainsi que les outils Bootstrap et de Figma, </li>
             <li> une approche également de Javascript et de la bibliothèque JQuerry pour modifier le DOM, et la découverte de la méthode Ajax, </li>
