@@ -44,6 +44,11 @@
                  document.getElementById("bouton3").style.border = ""
                  document.getElementById("bouton4").style.border = ""
 
+                 document.getElementById("bb1").style.border = "#FFBE40 3px solid"
+                 document.getElementById("bb2").style.border = ""
+                 document.getElementById("bb3").style.border = ""
+                 document.getElementById("bb4").style.border = ""
+
             },
 
             error:function(error){
@@ -62,9 +67,15 @@
                 document.getElementById("introAK").innerHTML = response;
 
                 document.getElementById("bouton2").style.border = "#FFBE40 3px solid"
-                 document.getElementById("bouton1").style.border = ""
-                 document.getElementById("bouton3").style.border = ""
-                 document.getElementById("bouton4").style.border = ""
+                document.getElementById("bouton1").style.border = ""
+                document.getElementById("bouton3").style.border = ""
+                document.getElementById("bouton4").style.border = ""
+
+
+                document.getElementById("bb2").style.border = "#FFBE40 3px solid"
+                document.getElementById("bb1").style.border = ""
+                document.getElementById("bb3").style.border = ""
+                document.getElementById("bb4").style.border = ""
             },
 
             error:function(error){
@@ -86,6 +97,11 @@
                  document.getElementById("bouton1").style.border = ""
                  document.getElementById("bouton2").style.border = ""
                  document.getElementById("bouton4").style.border = ""
+
+                 document.getElementById("bb3").style.border = "#FFBE40 3px solid"
+                 document.getElementById("bb1").style.border = ""
+                 document.getElementById("bb2").style.border = ""
+                 document.getElementById("bb4").style.border = ""
             },
 
             error:function(error){
@@ -107,6 +123,11 @@
                  document.getElementById("bouton1").style.border = ""
                  document.getElementById("bouton3").style.border = ""
                  document.getElementById("bouton2").style.border = ""
+                
+                 document.getElementById("bb4").style.border = "#FFBE40 3px solid"
+                 document.getElementById("bb1").style.border = ""
+                 document.getElementById("bb3").style.border = ""
+                 document.getElementById("bb2").style.border = ""
             },
 
             error:function(error){
