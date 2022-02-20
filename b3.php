@@ -12,13 +12,13 @@
 
     <div class="accordion accordion-flush" id="accordionFlushExample" style="width:100%">
             <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-heading0">
-                    <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#flush-collapse0" aria-expanded="false" aria-controls="flush-collapse0">
+                <h2 class="accordion-header" id="flush-headingA">
+                    <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#flush-collapseA" aria-expanded="false" aria-controls="flush-collapseA">
                         <span class= "gras"><p> Depuis le 25/10/2021 : Stagiaire de formation – Alaji (Villers-Lès-Nancy) </p></span>
                     </button>
                 </h2>
-
-                <div id="flush-collapse0" class="accordion-collapse collapse" aria-labelledby="flush-heading0" data-bs-parent="#accordionFlushExample">
+                
+                <div id="flush-collapseA" class="accordion-collapse collapse" aria-labelledby="flush-headingA" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body"><p>Préparation à la qualification développeur web et intégrateur web PHP orienté objet - Développement de la partie front-end et back-end d’un site internet web et web - mobile, création et gestion de bases de données <br>Langages de programmation et outils :<br>Visual Studio Code, Git Hub, HTML, CSS, SCSS, PHP orienté objet, Javascript, JQuery, Ajax, phpMyAdmin, MySQL, Python, utilisation d’API, respect du modèle MVC, écriture de routes, lecture et écriture d’UML, Bootstrap, Figma, ORM/Doctrine.</p></div>
                 </div>
             </div>
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="accordion-item">
-
+                
         <!-- COllapse accordeon -->
 
 
@@ -117,8 +117,8 @@
 
             <div id="flush-collapse6" class="accordion-collapse collapse" aria-labelledby="flush-heading6" data-bs-parent="#accordionFlushExample">
             <div class="accordion-body"><p>Jobs étudiants et Missions d’Interim :</span><br>
-            - Accueil téléphonique et réservation de transports en commun (Ville de Metz)<br>
-            - Cours et aide aux devoirs niveaux collège et lycée (pendant 2 ans)<br>
+            - Accueil téléphonique et réservation de transports en commun (Ville de Metz)<br> 
+            - Cours et aide aux devoirs niveaux collège et lycée (pendant 2 ans)<br> 
             - Réalisation d'enquêtes à bord des trains SNCF <br>
             - Travail en usine (type papeterie) <br><br></p></div>
             </div>
@@ -126,7 +126,7 @@
         <div class="accordion-item">
         <!-- FIN-->
     </div>
-
+        
 <br><br><br>
 
 
@@ -136,7 +136,7 @@
 
 <br>
 
-<div style="align-text:center; text-align: center;">
+<div style="align-text:center; text-align: center;"> 
 <img src="https://pngimage.net/wp-content/uploads/2018/05/comp%C3%A9tences-icone-png.png" style="height:60px;margin-bottom:20px">
 </div>
 
@@ -203,13 +203,13 @@
         </div>
         <div class="accordion-item">
         </div>
-
+    
     <br><br>
-
-    <div style="align-text:center; text-align: center;">
+    
+    <div style="align-text:center; text-align: center;"> 
     <input class="favorite styled b5" type="button" id="bouton4"  onclick="run5()" value="Retour">
-    </div>
-
+    </div> 
+        
 <br><br>
-
-
+        
+        

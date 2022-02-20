@@ -7,13 +7,13 @@
 <div class="bas fondtransparent">
 
     <div style="z-index:0">
-        <br><div><h3> <span class = "gras">Mes "petites" réalisations :</h3></span><br>
+        <div><h3> <span class = "gras">Mes "petites" réalisations :</h3></span><br>
     </div>
 
         <div style=" font-weight: bold;">
             <a href="/halloween/page1.html" target="_blank"> Jeu Spécial Halloween (à jouer sur ordinateur) </a> <br>
-            <a href="/noel/arbre.html" target="blank">Faites danser votre sapin de Noël sur "Jingle bell rock" </a><br>
-            <a href="/sport/entrainement.php" target="_blank"> Projet sur le sport (en cours) </a><br><br>
+            <a href="/noel/arbre.html" target="blank">Faites danser votre sapin de Noël sur "Jingle bell rock" </a><br><br>
+            <a href="/sport/entrainement.php" target="_blank"> Projet sur le sport (en cours) </a><br>
         <div>
 
     </div>
