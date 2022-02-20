@@ -50,4 +50,4 @@
                 
 <input class="favorite styled b5" type="button" id="bouton4"  onclick="run5()" value="Retour">
 
-<br><hr>
+<br><br>
